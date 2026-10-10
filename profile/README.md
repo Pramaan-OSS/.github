@@ -49,7 +49,7 @@
    Pramaan routes it   --->   provider A     provider B     provider C
         |                          x (fails)     OK (lowest cost)
         v
-   clean result               provider traces stripped
+   clean result
 ```
 
 <br>
